@@ -64,3 +64,26 @@ To run the API, use the following command:
 
 ```bash
 npm run dev
+
+## Tests
+### Running Tests
+
+To run the tests in this project, use the following command:
+
+```bash
+npm test
+
+## Contributing
+Contributions to enhance Hello foodies are welcome.
+ Follow these steps:
+- Fork this repository to your GitHub account.
+- Create a new branch for your feature or bug fix.
+
+## Contact
+If you have questions or feedback, feel free to reach out at wandamarketingspecialist@gmail.com.
+
+
+## Project status
+
+- Version: 1.0.0
+- Development status: Active. defame
