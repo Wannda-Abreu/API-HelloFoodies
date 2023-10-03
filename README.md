@@ -56,8 +56,6 @@ The dependencies for this project are managed using npm (Node Package Manager). 
 - [sequelize](https://www.npmjs.com/package/sequelize)
 - [mysql2](https://www.npmjs.com/package/mysql2)
 - [cors](https://www.npmjs.com/package/cors)
-- [body-parser](https://www.npmjs.com/package/body-parser)
-- [dotenv](https://www.npmjs.com/package/dotenv)
 
 ## Usage
 To run the API, use the following command:
