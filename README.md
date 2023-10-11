@@ -6,8 +6,8 @@
 <div>
 
 
-## Welcome to the HelloFoodies API! This document provides you with all the information you need to get
-started and use our API to manage recipes and categories for your culinary adventures.
+## Welcome to the HelloFoodies API! This document provides you with all the information you need to get 
+## started and use our API to manage recipes and categories for your culinary adventures.
 
 
 ## Key Features
@@ -17,9 +17,9 @@ started and use our API to manage recipes and categories for your culinary adven
 - Secure: Built with security in mind to protect your data.
 
 ## Technologies Used 
-- MySql Workbwnch
+- MySql Workbench
 - Node.js
-- Express,js
+- Express.js
 
 ## ## Tools Used
 <div>
